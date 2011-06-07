@@ -10,7 +10,7 @@ Retrieves the available languages for the current installation and highlights th
 
 ## Synopsis ##
 
-Available Languagea retrieves the languages set in the Preferences panel when using the Language Redirect extension, highlighting the default one; you can now have this kind of information as an Event, without having to attach the Language Redirect Event to a page, avoiding said redirect. 
+Available Languages retrieves the languages set in the Preferences panel when using the Language Redirect extension, highlighting the default one; you can now have this kind of information as an Event, without having to attach the Language Redirect Event to a page, avoiding said redirect. 
 
 Heavily inspired by the LHandles extension by Vlad Ghita, and the Language Redirect by Jonas Coch, from whom I borrowed the languages names array :P Thanks both!
 
