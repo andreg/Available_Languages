@@ -43,7 +43,7 @@
 					$lang = new XMLElement('language', $this->lang[$lang_code]);
 					$lang->setAttribute("handle", $lang_code);
 					if($i==0)
-						$lang->setAttribute("default", "1")
+						$lang->setAttribute("default", "1");
 					$result->appendChild($lang);
 					$i++;
 				}
